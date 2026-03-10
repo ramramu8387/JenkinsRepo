@@ -7,3 +7,14 @@ p {
   margin: 15px auto;     /* Adds space outside the border and centers the element */
 }
 
+
+p {
+  font-family: sans-serif;
+  color: red;
+}
+
+li {
+  background-color: greenyellow;
+  border: 1px solid black;
+  margin-bottom: 5px;
+}
