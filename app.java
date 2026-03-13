@@ -71,4 +71,3 @@ class Main {
   }
 }
 
-This is java file
